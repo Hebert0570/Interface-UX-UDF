@@ -1,34 +1,34 @@
-Projeto: Mural de Avisos para o WhatsApp (Atividade de UX/UI)
+Projeto de Interface do Usuário
 
-Sobre o projeto
-Fiz esse projeto para a matéria de Interface e Jornada do Usuário lá na UDF. A ideia era pegar um app que todo mundo já usa (escolhi o WhatsApp) e criar uma função nova que fizesse sentido, sem bagunçar o visual que já existe.
+Este repositório contém os materiais desenvolvidos para a disciplina de **Interface do Usuário**, com foco na criação e evolução de protótipos.
 
-A ideia: Mural do Grupo
-Sabe quando o grupo da faculdade tá bombando de mensagem e você perde o link de um trabalho ou a data de uma prova? O Mural de Avisos resolve isso. É um lugar fixo pra deixar o que é importante guardado, sem sumir no meio da conversa.
+Objetivo
 
-O que eu montei:
+O objetivo deste projeto é aplicar conceitos de design de interfaces, usabilidade e experiência do usuário (UX), por meio da construção de protótipos em diferentes níveis de fidelidade.
 
-Tela 1: O chat normal do dia a dia.
+Conteúdo do Repositório
 
-Tela 2: O menu de opções com o novo botão "Mural do Grupo".
+* **Protótipo de Baixa Fidelidade**
 
-Tela 3: Uma tela simples para preencher e fixar um aviso novo.
+  * Esboços iniciais (wireframes)
+  * Estrutura básica das telas
+  * Foco na organização e fluxo de navegação
 
-Tela 4: O mural pronto, com a lista de tudo que foi postado.
+* **Protótipo de Média Fidelidade**
 
-Caminhos para chegar no Mural
-Pra deixar o app fácil de usar, criei dois jeitos de abrir o Mural:
+  * Layouts mais detalhados
+  * Definição de componentes visuais
+  * Melhor representação da interação do usuário
 
-Pelo menu: Clicando nos três pontinhos no canto superior direito.
+Ferramentas Utilizadas
 
-Pelo topo: Clicando direto no nome do grupo (cabeçalho).
+* Gemini | ChatpGPT
+* Figma
 
-🎨 Por que ficou assim?
-Cores e Estilo: Usei o verde e o bege padrão do Zap pra parecer que a função sempre esteve lá.
+Como visualizar
 
-Botões: Deixei tudo bem arredondado (25px) porque é mais fácil de clicar no celular e fica mais bonito.
+Os protótipos podem ser acessados diretamente nas pastas do repositório ou por meio dos links (caso disponíveis).
 
-Organização: Coloquei no menu pra não poluir a tela principal de quem só quer mandar um "oi".
+Licença
 
-Link do Protótipo
-[Clique Aqui](https://www.figma.com/design/wTTBZhJtcwlx2wqprr0oWM/Sem-t%C3%ADtulo?node-id=0-1&t=VQtccpRa6S6wl5zL-1)
+Este projeto é apenas para fins acadêmicos.
